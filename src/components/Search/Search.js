@@ -3,6 +3,7 @@ function getBusiness(props) {
     return (
     <div className="card">
         <div className="card-header" style={{backgroundColor: "#F8F9FA"}}>
+          <h1>Foodie-Me</h1>
           <i className="far fa-list-alt"></i> Search Parameters
         </div>
         <div className="card-body">
