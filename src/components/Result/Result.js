@@ -17,7 +17,7 @@ function Result(props) {
             //   </li>
 
                 <div className="card" style={{width: "18rem"}}>
-                    <img src="" className="card-img-top" alt="..." />
+                    <img src={item.image_url} className="card-img-top" alt="businessImage" />
                         <div className="card-body">
                         <h5 className="card-title">{item.name}</h5>
                         <p className="card-text">{item.location.city}</p>

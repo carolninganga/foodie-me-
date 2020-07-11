@@ -14,7 +14,7 @@ class App extends Component {
   }
   searchStore = (term,location) => {
     API.search(term,location)
-    .then(res => console.log(res.data.businesses))
+    //.then(res => console.log(res.data.businesses))
       .then(res => this.setState({ result: res.data.businesses })) 
       .catch(err => console.log(err));
   };
