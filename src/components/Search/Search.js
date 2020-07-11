@@ -1,9 +1,14 @@
 import React from 'react';
+import './style.css';
+import 'animate.css'
+
+
+
 function getBusiness(props) {
     return (
     <div className="card">
         <div className="card-header" style={{backgroundColor: "#F8F9FA"}}>
-          <h1 className="app-title">Foodie-Me</h1>
+          <h1 className="app-title" class="animate__animated animate__rotateIn"> 🛍Foodie-Me ❤️❤️</h1>
           <i className="far fa-list-alt"></i> Search Parameters
         </div>
         <div className="card-body">

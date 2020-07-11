@@ -10,6 +10,10 @@ body {
 
 }
 
-.app-title {
-    text-align: center;
+.card {
+    margin-bottom: 20px;
+}
+
+.btn {
+    background-color:#24243e !important ;
 }
