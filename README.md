@@ -16,7 +16,9 @@ Just click the Heroku link and search away...!
 ## Contributing 
 Caroline Ninganga
 
-## License
+## Technologies Used
+- Materialize Ui
+- Bootstrap
 
 
 ## Link to project URL
