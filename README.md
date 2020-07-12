@@ -21,6 +21,7 @@ Caroline Ninganga
 - Bootstrap
 - React
 - JavaScript
+- Yelp API
 
 
 ## Link to project URL
