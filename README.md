@@ -19,6 +19,8 @@ Caroline Ninganga
 ## Technologies Used
 - Materialize Ui
 - Bootstrap
+- React
+- JavaScript
 
 
 ## Link to project URL
