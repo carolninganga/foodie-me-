@@ -43,3 +43,7 @@ body {
     opacity: 1;
     right: 0;
   }
+
+  .rating {
+      color: rgb(165, 24, 24);
+  }
