@@ -3,7 +3,7 @@
 ![Untitled_ Jul 11, 2020 9_17 PM](https://user-images.githubusercontent.com/33443452/87236878-7ad0e580-c3bc-11ea-87a8-f9298ed61ce0.gif)
 
 ## Description
-A small application that uses the Yelp API and react to search for locaol food spots in the area.
+A small application that uses the Yelp API and react to search for locaol food spots in the area. The user can use search key words like bar, cake, target and location to find the food they are looking for.
 
 ## Installation
 
