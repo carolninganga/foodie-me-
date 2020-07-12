@@ -1,4 +1,19 @@
 .app-title {
-    text-align: center;
-    color: rgb(67, 31, 167);
+    text-align: center !important;
+    color: rgb(44, 20, 110);
+    font-family: var(--animate-delay);
 }
+
+.animate__animated.animate__bounce {
+    --animate-duration: 2s;
+  }
+  
+  /* This changes all the animations globaly */
+  :root {
+    --animate-duration: 800ms;
+    --animate-delay: 0.9s;
+  }
+
+  .btn {
+      color: rgb(253, 251, 251);
+  }

@@ -28,7 +28,7 @@ function Result(props) {
                         <h5 className="card-title">{item.name}</h5>
                         <p className="card-text">{item.location.city} {item.location.zip_code}</p>
                         {/* <p className="card-text">{</p> */}
-                    <a href={item.url} className="btn btn-primary">View More on Yelp</a>
+                        <a href={item.url} className="btn btn-primary"><span>View More on Yelp</span></a><span>{item.rating}</span>
                       </div>
                 </div>
             )
